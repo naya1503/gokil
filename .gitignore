@@ -6,16 +6,6 @@ main.py
 unknown_errors.txt
 .DS_Store
 
-# Pyrogram generated code
-gokil/errors/exceptions/
-gokil/raw/functions/
-gokil/raw/types/
-gokil/raw/base/
-gokil/raw/all.py
-docs/source/telegram
-docs/source/api/methods/
-docs/source/api/bound-methods/
-docs/source/api/types/
 
 # PyCharm stuff
 .idea/
